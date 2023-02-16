@@ -34,7 +34,7 @@ The model can be applied to complex scenarios with mixed data and logic.
 
 ## Usage
 
-Get the smart contract from [GitHub](https://github.com/BSN-Spartan/NFT-Fractional-Contract/tree/main/contracts), or get the source code by command:
+Get the smart contract from [GitHub](https://github.com/BSN-Spartan/Multi-Contract-Structure/tree/main/multiple-structure-contract), or get the source code by command:
 
 ```
 $ git clone https://github.com/BSN-Spartan/Multi-Contract-Structure.git
