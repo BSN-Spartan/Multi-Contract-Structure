@@ -99,4 +99,4 @@ Return the value x by calling this function.
 
 ## License
 
-Spartan-NFT Contracts is released under the [Spartan License](https://github.com/BSN-Spartan/Beginner-Level-Contracts/blob/main/Spartan%20License.md).
+Spartan Structure of Multi-Contract Calls Contracts is released under the [Spartan License](https://github.com/BSN-Spartan/Beginner-Level-Contracts/blob/main/Spartan%20License.md).
